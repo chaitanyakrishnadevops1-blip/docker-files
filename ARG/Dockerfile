@@ -7,3 +7,6 @@ ARG COURSE="DOCKER" \
 RUN echo "Trainer: ${TRAINER}, Course: ${COURSE}, Version: ${VERSION}"
 
 
+
+
+
