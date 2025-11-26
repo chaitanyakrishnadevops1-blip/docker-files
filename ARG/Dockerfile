@@ -1,3 +1,4 @@
+ARG VERSION
 FROM almalinux:${VERSION:-9}
 
 ARG COURSE="DOCKER" \
